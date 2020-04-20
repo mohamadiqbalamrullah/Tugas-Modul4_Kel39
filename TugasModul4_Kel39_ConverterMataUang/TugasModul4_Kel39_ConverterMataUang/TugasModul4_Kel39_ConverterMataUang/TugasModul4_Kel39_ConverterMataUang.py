@@ -16,7 +16,6 @@ def awal():
 
 def pilihan1():
     os.system('cls');
-    print('COBA GITHUB')
     print('Kemana anda akan menukar uang ?')
     print('1. Rupiah ke Asing\n2. Asing ke Rupiah\n3. Back\n4. Home')
     p1=int(input('Masukkan pilihan : '))
