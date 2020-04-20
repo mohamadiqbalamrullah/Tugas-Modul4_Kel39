@@ -135,6 +135,8 @@ def akhir():
     time.sleep(1)
     selesai()
 
+    print("selesai")
+
 awal()
 
 
